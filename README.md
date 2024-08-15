@@ -1,1 +1,1 @@
-All of my public repos are treated as shared private repos.
+All of my public repositories are treated as if they were shared private repositories.
